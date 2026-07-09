@@ -1,4 +1,5 @@
 const spotlight = document.querySelector(".spotlight");
+const scrollRoot = document.querySelector("main");
 const navLinks = [...document.querySelectorAll(".section-nav a")];
 const sections = navLinks
   .map((link) => document.querySelector(link.getAttribute("href")))
@@ -18,7 +19,7 @@ const observer = new IntersectionObserver(
       });
     });
   },
-  { rootMargin: "-35% 0px -55% 0px", threshold: 0 }
+  { root: scrollRoot, rootMargin: "-35% 0px -55% 0px", threshold: 0 }
 );
 
 sections.forEach((section) => observer.observe(section));
