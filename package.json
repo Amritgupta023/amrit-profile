@@ -4,7 +4,15 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/verify-static.mjs",
-    "start": "node scripts/serve.mjs"
+    "dev": "vite --host 127.0.0.1",
+    "start": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "6.0.3",
+    "vite": "8.1.4",
+    "react": "19.2.7",
+    "react-dom": "19.2.7"
   }
 }
