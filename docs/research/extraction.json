@@ -1,0 +1,1153 @@
+{
+  "bodyText": "SKIP TO CONTENT\nBrittany Chiang\nFrontend Engineer\n\nI build accessible, pixel-perfect experiences for the web.\n\nGitHub\nLinkedIn\nCodePen\nInstagram\nGoodreads\nABOUT\n\nHi there! I'm Brittany, and I like building things. I'm a frontend engineer with expertise in building accessible, pixel-perfect user interfaces. I take pride in crafting thoughtful, inclusive products and have a sharp eye for the small details that separate a good product from an exceptional one. I enjoy working at the intersection of design and engineering, where great UX meets clean, scalable code.\n\nCurrently, I'm a Senior Frontend Engineer at Klaviyo, where I work on our design system and help build new products. I lead engineering efforts across components, tooling, and patterns, partnering closely with designers and engineers to ensure accessibility is built into the foundation of everything we ship.\n\nPreviously, I’ve worked across a wide range of environments — from product studios to startups and large tech companies — including Apple, Starry Internet, and Upstatement. Outside of my day-to-day work, I also created an online video course a few years ago which walks through building a real-world, API-driven application from scratch. These experiences have shaped how I think about building products that are both well-crafted and widely usable.\n\nIn my spare time, you can usually find me climbing, playing tennis, hanging out with my wife and two cats, or running around Hyrule searching for \nKorok seeds\nK\no\nr\no\nk\n \ns\ne\ne\nd\ns\n.\n\nEXPERIENCE\n2024 — PRESENT\nSenior Frontend Engineer, Accessibility · Klaviyo\n\nBuild and maintain critical components used to construct Klaviyo’s frontend, across the whole product. Work closely with cross-functional teams, including developers, designers, and product managers, to implement and advocate for best practices in web accessibility.\n\nJavaScript\nTypeScript\nReact\nStorybook\n2018 — 2024\nLead Engineer · Upstatement\nSenior Engineer\nEngineer\n\nBuild, style, and ship high-quality websites, design systems, mobile apps, and digital experiences for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more. Provide leadership within engineering department through close collaboration, knowledge shares, and spearheading the development of internal tools.\n\nJavaScript\nTypeScript\nHTML & SCSS\nReact\nNext.js\nReact Native\nWordPress\nContentful\nNode.js\nPHP\nJULY — DEC 2017\nUI Engineer Co-op · Apple\n\nDeveloped and styled interactive web apps for Apple Music, including the user interface of Apple Music’s embeddable web player widget for in-browser user authorization and full song playback.\n\nMusicKit.js\n9to5Mac\nThe Verge\nEmber\nSCSS\nJavaScript\nMusicKit.js\n2016 — 2017\nDeveloper · Scout Studio\n\nCollaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community.\n\nJekyll\nSCSS\nJavaScript\nWordPress\nJULY — DEC 2016\nSoftware Engineer Co-op · Starry\n\nWorked with the UI team to engineer and improve major features of Starry’s customer-facing Android app.\n\nAndroid App\nScreenTime 2.0\nCordova\nBackbone\nJavaScript\nCSS\nJULY — DEC 2015\nCreative Technologist Co-op · MullenLowe U.S.\n\nDeveloped, maintained, and shipped production code for client websites. Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more.\n\nHTML\nCSS\nJavaScript\njQuery\nView Full Résumé\nPROJECTS\nBuild a Spotify Connected App\n\nVideo course that teaches how to build a web app with the Spotify Web API. Topics covered include the principles of REST APIs, user auth flows, Node, Express, React, Styled Components, and more.\n\nSpotify Profile\n\nWeb app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.\n\n719\nReact\nExpress\nSpotify API\nHeroku\nHalcyon Theme\n\nMinimal dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more.\n\n100k+ Installs\nbrittanychiang.com (v4)\n\nAn old portfolio site built with Gatsby with 6k+ stars and 3k+ forks\n\n8,262\nGatsby\nStyled Components\nNetlify\nView Full Project Archive\nWRITING\n\n2026\n\nWelcome to the AI Parade\n\n2024\n\n5 Common Accessibility Pitfalls and How to Avoid Them\n\n2020\n\nIntegrating Algolia Search with WordPress Multisite\n\n2019\n\nBuilding a Headless Mobile App CMS From Scratch\n\nLoosely designed in Figma and coded in Visual Studio Code by yours truly. Built with Next.js and Tailwind CSS, deployed with Vercel. All text is set in the Inter typeface.\n\nClick to time travel",
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(229, 231, 235)",
+    "rgb(148, 163, 184)",
+    "rgb(15, 23, 42)",
+    "rgb(234, 179, 8)",
+    "rgb(226, 232, 240)",
+    "rgb(71, 85, 105)",
+    "rgb(100, 116, 139)",
+    "rgba(15, 23, 42, 0.75)",
+    "rgb(94, 234, 212)",
+    "rgba(45, 212, 191, 0.1)",
+    "rgb(203, 213, 225)",
+    "rgba(226, 232, 240, 0.1)"
+  ],
+  "fonts": [
+    "\"Times New Roman\"",
+    "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  ],
+  "headings": [
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(226, 232, 240)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "48px",
+        "fontWeight": "700",
+        "height": "48px",
+        "letterSpacing": "-1.2px",
+        "lineHeight": "48px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "747.333px"
+      },
+      "tag": "H1",
+      "text": "Brittany Chiang"
+    },
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(226, 232, 240)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "height": "28px",
+        "letterSpacing": "-0.5px",
+        "lineHeight": "28px",
+        "margin": "12px 0px 0px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "747.333px"
+      },
+      "tag": "H2",
+      "text": "Frontend Engineer"
+    },
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(226, 232, 240)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "height": "20px",
+        "letterSpacing": "1.4px",
+        "lineHeight": "20px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "747.333px"
+      },
+      "tag": "H2",
+      "text": "ABOUT"
+    },
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(226, 232, 240)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "height": "20px",
+        "letterSpacing": "1.4px",
+        "lineHeight": "20px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "747.333px"
+      },
+      "tag": "H2",
+      "text": "EXPERIENCE"
+    },
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(226, 232, 240)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "height": "22px",
+        "lineHeight": "22px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "556.5px"
+      },
+      "tag": "H3",
+      "text": "Senior Frontend Engineer, Accessibility · Klaviyo"
+    },
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(226, 232, 240)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "height": "66px",
+        "lineHeight": "22px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "556.5px"
+      },
+      "tag": "H3",
+      "text": "Lead Engineer · Upstatement\nSenior Engineer\nEngineer"
+    },
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(226, 232, 240)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "height": "22px",
+        "lineHeight": "22px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "556.5px"
+      },
+      "tag": "H3",
+      "text": "UI Engineer Co-op · Apple"
+    },
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(226, 232, 240)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "height": "22px",
+        "lineHeight": "22px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "556.5px"
+      },
+      "tag": "H3",
+      "text": "Developer · Scout Studio"
+    },
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(226, 232, 240)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "height": "22px",
+        "lineHeight": "22px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "556.5px"
+      },
+      "tag": "H3",
+      "text": "Software Engineer Co-op · Starry"
+    },
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(226, 232, 240)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "height": "22px",
+        "lineHeight": "22px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "556.5px"
+      },
+      "tag": "H3",
+      "text": "Creative Technologist Co-op · MullenLowe U.S."
+    },
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(226, 232, 240)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "height": "20px",
+        "letterSpacing": "1.4px",
+        "lineHeight": "20px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "747.333px"
+      },
+      "tag": "H2",
+      "text": "PROJECTS"
+    },
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(148, 163, 184)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "height": "26px",
+        "lineHeight": "26px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "556.5px"
+      },
+      "tag": "H3",
+      "text": "Build a Spotify Connected App"
+    },
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(148, 163, 184)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "height": "26px",
+        "lineHeight": "26px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "556.5px"
+      },
+      "tag": "H3",
+      "text": "Spotify Profile"
+    },
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(148, 163, 184)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "height": "26px",
+        "lineHeight": "26px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "556.5px"
+      },
+      "tag": "H3",
+      "text": "Halcyon Theme"
+    },
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(148, 163, 184)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "height": "26px",
+        "lineHeight": "26px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "556.5px"
+      },
+      "tag": "H3",
+      "text": "brittanychiang.com (v4)"
+    },
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(226, 232, 240)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "height": "20px",
+        "letterSpacing": "1.4px",
+        "lineHeight": "20px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "747.333px"
+      },
+      "tag": "H2",
+      "text": "WRITING"
+    },
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(148, 163, 184)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "height": "26px",
+        "lineHeight": "26px",
+        "margin": "-4px 0px 0px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "556.5px"
+      },
+      "tag": "H3",
+      "text": "Welcome to the AI Parade"
+    },
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(148, 163, 184)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "height": "26px",
+        "lineHeight": "26px",
+        "margin": "-4px 0px 0px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "556.5px"
+      },
+      "tag": "H3",
+      "text": "5 Common Accessibility Pitfalls and How to Avoid Them"
+    },
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(148, 163, 184)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "height": "26px",
+        "lineHeight": "26px",
+        "margin": "-4px 0px 0px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "556.5px"
+      },
+      "tag": "H3",
+      "text": "Integrating Algolia Search with WordPress Multisite"
+    },
+    {
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(148, 163, 184)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "height": "26px",
+        "lineHeight": "26px",
+        "margin": "-4px 0px 0px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "556.5px"
+      },
+      "tag": "H3",
+      "text": "Building a Headless Mobile App CMS From Scratch"
+    }
+  ],
+  "links": [
+    {
+      "aria": null,
+      "cls": "absolute left-0 top-0 block -translate-x-full rounded bg-yellow-500 px-4 py-3 te",
+      "href": "https://brittanychiang.com/#content",
+      "text": "SKIP TO CONTENT"
+    },
+    {
+      "aria": null,
+      "cls": "",
+      "href": "https://brittanychiang.com/",
+      "text": "Brittany Chiang"
+    },
+    {
+      "aria": null,
+      "cls": "group flex items-center py-3 active",
+      "href": "https://brittanychiang.com/#about",
+      "text": "About"
+    },
+    {
+      "aria": null,
+      "cls": "group flex items-center py-3 ",
+      "href": "https://brittanychiang.com/#experience",
+      "text": "Experience"
+    },
+    {
+      "aria": null,
+      "cls": "group flex items-center py-3 ",
+      "href": "https://brittanychiang.com/#projects",
+      "text": "Projects"
+    },
+    {
+      "aria": "GitHub (opens in a new tab)",
+      "cls": "block",
+      "href": "https://github.com/bchiang7",
+      "text": "GitHub"
+    },
+    {
+      "aria": "LinkedIn (opens in a new tab)",
+      "cls": "block",
+      "href": "https://www.linkedin.com/in/bchiang7/",
+      "text": "LinkedIn"
+    },
+    {
+      "aria": "CodePen (opens in a new tab)",
+      "cls": "block",
+      "href": "https://codepen.io/bchiang7",
+      "text": "CodePen"
+    },
+    {
+      "aria": "Instagram (opens in a new tab)",
+      "cls": "block",
+      "href": "https://instagram.com/bchiang7",
+      "text": "Instagram"
+    },
+    {
+      "aria": "Goodreads (opens in a new tab)",
+      "cls": "block",
+      "href": "https://www.goodreads.com/user/show/143480747-brittany-chiang",
+      "text": "Goodreads"
+    },
+    {
+      "aria": "Klaviyo (opens in a new tab)",
+      "cls": "font-medium text-slate-200",
+      "href": "https://www.klaviyo.com/",
+      "text": "Klaviyo"
+    },
+    {
+      "aria": "huge corporation (opens in a new tab)",
+      "cls": "font-medium text-slate-200",
+      "href": "https://www.apple.com/apple-music/",
+      "text": "Apple"
+    },
+    {
+      "aria": "start-up (opens in a new tab)",
+      "cls": "font-medium text-slate-200",
+      "href": "https://starry.com/",
+      "text": "Starry Internet"
+    },
+    {
+      "aria": "digital product studio (opens in a new tab)",
+      "cls": "font-medium text-slate-200",
+      "href": "https://upstatement.com/",
+      "text": "Upstatement"
+    },
+    {
+      "aria": "online video course (opens in a new tab)",
+      "cls": "font-medium text-slate-200",
+      "href": "https://www.newline.co/courses/build-a-spotify-connected-app",
+      "text": "online video course"
+    },
+    {
+      "aria": "Senior Frontend Engineer, Accessibility at Klaviyo (opens in a new tab)",
+      "cls": "inline-flex items-baseline font-medium leading-tight text-slate-200  group/link ",
+      "href": "https://www.klaviyo.com/",
+      "text": "Senior Frontend Engineer, Accessibility · Klaviyo"
+    },
+    {
+      "aria": "Lead Engineer at Upstatement (opens in a new tab)",
+      "cls": "inline-flex items-baseline font-medium leading-tight text-slate-200  group/link ",
+      "href": "https://upstatement.com/",
+      "text": "Lead Engineer · Upstatement"
+    },
+    {
+      "aria": "UI Engineer Co-op at Apple (opens in a new tab)",
+      "cls": "inline-flex items-baseline font-medium leading-tight text-slate-200  group/link ",
+      "href": "https://www.apple.com/apple-music/",
+      "text": "UI Engineer Co-op · Apple"
+    },
+    {
+      "aria": "MusicKit.js (opens in a new tab)",
+      "cls": "relative mt-2 inline-flex items-center text-sm font-medium text-slate-300",
+      "href": "https://developer.apple.com/documentation/musickitjs",
+      "text": "MusicKit.js"
+    },
+    {
+      "aria": "9to5Mac (opens in a new tab)",
+      "cls": "relative mt-2 inline-flex items-center text-sm font-medium text-slate-300",
+      "href": "https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/",
+      "text": "9to5Mac"
+    },
+    {
+      "aria": "The Verge (opens in a new tab)",
+      "cls": "relative mt-2 inline-flex items-center text-sm font-medium text-slate-300",
+      "href": "https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming",
+      "text": "The Verge"
+    },
+    {
+      "aria": "Developer at Scout Studio (opens in a new tab)",
+      "cls": "inline-flex items-baseline font-medium leading-tight text-slate-200  group/link ",
+      "href": "https://scout.camd.northeastern.edu/",
+      "text": "Developer · Scout Studio"
+    },
+    {
+      "aria": "Software Engineer Co-op at Starry (opens in a new tab)",
+      "cls": "inline-flex items-baseline font-medium leading-tight text-slate-200  group/link ",
+      "href": "https://starry.com/",
+      "text": "Software Engineer Co-op · Starry"
+    },
+    {
+      "aria": "Android App (opens in a new tab)",
+      "cls": "relative mt-2 inline-flex items-center text-sm font-medium text-slate-300",
+      "href": "https://play.google.com/store/apps/details?id=com.starry.management&hl=en_US&gl=US",
+      "text": "Android App"
+    },
+    {
+      "aria": "ScreenTime 2.0 (opens in a new tab)",
+      "cls": "relative mt-2 inline-flex items-center text-sm font-medium text-slate-300",
+      "href": "https://starry.com/blog/product/whats-new-screentime-just-got-better-for-parents",
+      "text": "ScreenTime 2.0"
+    },
+    {
+      "aria": "Creative Technologist Co-op at MullenLowe U.S. (opens in a new tab)",
+      "cls": "inline-flex items-baseline font-medium leading-tight text-slate-200  group/link ",
+      "href": "https://us.mullenlowe.com/",
+      "text": "Creative Technologist Co-op · MullenLowe U.S."
+    },
+    {
+      "aria": "View Full Résumé (opens in a new tab)",
+      "cls": "inline-flex items-baseline font-medium leading-tight text-slate-200 font-semibol",
+      "href": "https://brittanychiang.com/resume.pdf",
+      "text": "View Full Résumé"
+    },
+    {
+      "aria": "Build a Spotify Connected App (opens in a new tab)",
+      "cls": "inline-flex items-baseline font-medium leading-tight text-slate-200  group/link ",
+      "href": "https://www.newline.co/courses/build-a-spotify-connected-app",
+      "text": "Build a Spotify Connected App"
+    },
+    {
+      "aria": "Spotify Profile (opens in a new tab)",
+      "cls": "inline-flex items-baseline font-medium leading-tight text-slate-200  group/link ",
+      "href": "https://spotify-profile.herokuapp.com/",
+      "text": "Spotify Profile"
+    },
+    {
+      "aria": "719 stars on GitHub (opens in a new tab)",
+      "cls": "relative mt-2 inline-flex items-center text-sm font-medium text-slate-300",
+      "href": "https://github.com/bchiang7/spotify-profile",
+      "text": "719"
+    },
+    {
+      "aria": "Halcyon Theme (opens in a new tab)",
+      "cls": "inline-flex items-baseline font-medium leading-tight text-slate-200  group/link ",
+      "href": "https://halcyon-theme.netlify.app/",
+      "text": "Halcyon Theme"
+    },
+    {
+      "aria": "Over 100,000 installs on Visual Studio Code Marketplace (opens in a new tab)",
+      "cls": "relative mt-2 inline-flex items-center text-sm font-medium text-slate-300",
+      "href": "https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode",
+      "text": "100k+ Installs"
+    },
+    {
+      "aria": "brittanychiang.com (v4) (opens in a new tab)",
+      "cls": "inline-flex items-baseline font-medium leading-tight text-slate-200  group/link ",
+      "href": "https://v4.brittanychiang.com/",
+      "text": "brittanychiang.com (v4)"
+    },
+    {
+      "aria": "8262 stars on GitHub (opens in a new tab)",
+      "cls": "relative mt-2 inline-flex items-center text-sm font-medium text-slate-300",
+      "href": "https://github.com/bchiang7/v4",
+      "text": "8,262"
+    },
+    {
+      "aria": "View Full Project Archive",
+      "cls": "inline-flex items-center font-medium leading-tight text-slate-200 font-semibold ",
+      "href": "https://brittanychiang.com/archive",
+      "text": "View Full Project Archive"
+    },
+    {
+      "aria": "Welcome to the AI Parade (opens in a new tab)",
+      "cls": "inline-flex items-baseline font-medium leading-tight text-slate-200  group/link ",
+      "href": "https://medium.com/@bchiang7/welcome-to-the-ai-parade-765f79b00c30",
+      "text": "Welcome to the AI Parade"
+    },
+    {
+      "aria": "5 Common Accessibility Pitfalls and How to Avoid Them (opens in a new tab)",
+      "cls": "inline-flex items-baseline font-medium leading-tight text-slate-200  group/link ",
+      "href": "https://klaviyo.tech/5-common-accessibility-pitfalls-and-how-to-avoid-them-e316dfc55ff0",
+      "text": "5 Common Accessibility Pitfalls and How to Avoid Them"
+    },
+    {
+      "aria": "Integrating Algolia Search with WordPress Multisite (opens in a new tab)",
+      "cls": "inline-flex items-baseline font-medium leading-tight text-slate-200  group/link ",
+      "href": "https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c",
+      "text": "Integrating Algolia Search with WordPress Multisite"
+    },
+    {
+      "aria": "Building a Headless Mobile App CMS From Scratch (opens in a new tab)",
+      "cls": "inline-flex items-baseline font-medium leading-tight text-slate-200  group/link ",
+      "href": "https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9",
+      "text": "Building a Headless Mobile App CMS From Scratch"
+    },
+    {
+      "aria": "Figma (opens in a new tab)",
+      "cls": "font-medium text-slate-400",
+      "href": "https://www.figma.com/",
+      "text": "Figma"
+    },
+    {
+      "aria": "Visual Studio Code (opens in a new tab)",
+      "cls": "font-medium text-slate-400",
+      "href": "https://code.visualstudio.com/",
+      "text": "Visual Studio Code"
+    },
+    {
+      "aria": "Next.js (opens in a new tab)",
+      "cls": "font-medium text-slate-400",
+      "href": "https://nextjs.org/",
+      "text": "Next.js"
+    },
+    {
+      "aria": "Tailwind CSS (opens in a new tab)",
+      "cls": "font-medium text-slate-400",
+      "href": "https://tailwindcss.com/",
+      "text": "Tailwind CSS"
+    },
+    {
+      "aria": "Vercel (opens in a new tab)",
+      "cls": "font-medium text-slate-400",
+      "href": "https://vercel.com/",
+      "text": "Vercel"
+    },
+    {
+      "aria": "Inter (opens in a new tab)",
+      "cls": "font-medium text-slate-400",
+      "href": "https://rsms.me/inter/",
+      "text": "Inter"
+    }
+  ],
+  "sections": [
+    {
+      "cls": "lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-[48%] lg:flex-col lg:justify-between lg:py-24",
+      "i": 0,
+      "id": "",
+      "rect": {
+        "h": 208,
+        "w": 747.3333740234375,
+        "x": 48,
+        "y": 64
+      },
+      "role": null,
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(148, 163, 184)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "height": "208px",
+        "lineHeight": "26px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "747.333px"
+      },
+      "tag": "header",
+      "text": "Brittany Chiang\nFrontend Engineer\n\nI build accessible, pixel-perfect experiences for the web.\n\nGitHub\nLinkedIn\nCodePen\nInstagram\nGoodreads"
+    },
+    {
+      "cls": "nav hidden lg:block",
+      "i": 1,
+      "id": "",
+      "rect": {
+        "h": 0,
+        "w": 0,
+        "x": 0,
+        "y": 0
+      },
+      "role": null,
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(148, 163, 184)",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all"
+      },
+      "tag": "nav",
+      "text": "AboutExperienceProjects"
+    },
+    {
+      "cls": "pt-24 lg:w-[52%] lg:py-24",
+      "i": 2,
+      "id": "content",
+      "rect": {
+        "h": 3960.39599609375,
+        "w": 747.3333740234375,
+        "x": 48,
+        "y": 272
+      },
+      "role": null,
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(148, 163, 184)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "height": "3960.4px",
+        "lineHeight": "26px",
+        "opacity": "1",
+        "padding": "96px 0px 0px",
+        "paddingTop": "96px",
+        "position": "static",
+        "transition": "all",
+        "width": "747.333px"
+      },
+      "tag": "main",
+      "text": "ABOUT\n\nHi there! I'm Brittany, and I like building things. I'm a frontend engineer with expertise in building accessible, pixel-perfect user interfaces. I take pride in crafting thoughtful, inclusive products and have a sharp eye for the small details that separate a good product from an exceptional one. I enjoy working at the intersection of design and engineering, where great UX meets clean, scalable code.\n\nCurrently, I'm a Senior Frontend Engineer at Klaviyo, where I work on our design system and help build new products. I lead engineering efforts across components, tooling, and patterns, partnering closely with designers and engineers to ensure accessibility is built into the foundation of everything we ship.\n\nPreviously, I’ve worked across a wide range of environments — from product studios to startups and large tech companies — including Apple, Starry Internet, and Upstatement. Outside of my day-to-day work, I also created an online video course a few years ago which walks through building a real-world, API-driven application from scratch. These experiences have shaped how I think about building products that are both well-crafted and widely usable.\n\nIn my spare time, you can usually find me climbing, playing tennis, hanging out with my wife and two cats, or running around Hyrule searching for \nKorok seeds\nK\no\nr\no\nk\n \ns\ne\ne\nd\ns\n.\n\nEXPERIENCE\n2024 — PRESENT\nSenior Frontend Engineer, Accessibility · Klaviyo\n\nBuild and maintain critical components used to construct Klaviyo’s frontend, across the whole product. Work closely with cross-functional teams, including developers, designers, and product managers, to implement and advocate for best practices in web accessibility.\n\nJavaScript\nTypeScript\nReact\nStorybook\n2018 — 2024\nLead Engineer · Upstatement\nSenior Engineer\nEngineer\n\nBuild, style, and ship high-quality websites, design systems, mobile apps, and digital experiences for a diverse array of projects for clients including Harvard Business School, Everytown for "
+    },
+    {
+      "cls": "mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24",
+      "i": 3,
+      "id": "about",
+      "rect": {
+        "h": 540,
+        "w": 747.3333740234375,
+        "x": 48,
+        "y": 368
+      },
+      "role": null,
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(148, 163, 184)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "height": "540px",
+        "lineHeight": "26px",
+        "margin": "0px 0px 96px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "747.333px"
+      },
+      "tag": "section",
+      "text": "ABOUT\n\nHi there! I'm Brittany, and I like building things. I'm a frontend engineer with expertise in building accessible, pixel-perfect user interfaces. I take pride in crafting thoughtful, inclusive products and have a sharp eye for the small details that separate a good product from an exceptional one. I enjoy working at the intersection of design and engineering, where great UX meets clean, scalable code.\n\nCurrently, I'm a Senior Frontend Engineer at Klaviyo, where I work on our design system and help build new products. I lead engineering efforts across components, tooling, and patterns, partnering closely with designers and engineers to ensure accessibility is built into the foundation of everything we ship.\n\nPreviously, I’ve worked across a wide range of environments — from product studios to startups and large tech companies — including Apple, Starry Internet, and Upstatement. Outside of my day-to-day work, I also created an online video course a few years ago which walks through building a real-world, API-driven application from scratch. These experiences have shaped how I think about building products that are both well-crafted and widely usable.\n\nIn my spare time, you can usually find me climbing, playing tennis, hanging out with my wife and two cats, or running around Hyrule searching for \nKorok seeds\nK\no\nr\no\nk\n \ns\ne\ne\nd\ns\n."
+    },
+    {
+      "cls": "mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24",
+      "i": 4,
+      "id": "experience",
+      "rect": {
+        "h": 1436.666748046875,
+        "w": 747.3333740234375,
+        "x": 48,
+        "y": 1004
+      },
+      "role": null,
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(148, 163, 184)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "height": "1436.67px",
+        "lineHeight": "26px",
+        "margin": "0px 0px 96px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "747.333px"
+      },
+      "tag": "section",
+      "text": "EXPERIENCE\n2024 — PRESENT\nSenior Frontend Engineer, Accessibility · Klaviyo\n\nBuild and maintain critical components used to construct Klaviyo’s frontend, across the whole product. Work closely with cross-functional teams, including developers, designers, and product managers, to implement and advocate for best practices in web accessibility.\n\nJavaScript\nTypeScript\nReact\nStorybook\n2018 — 2024\nLead Engineer · Upstatement\nSenior Engineer\nEngineer\n\nBuild, style, and ship high-quality websites, design systems, mobile apps, and digital experiences for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more. Provide leadership within engineering department through close collaboration, knowledge shares, and spearheading the development of internal tools.\n\nJavaScript\nTypeScript\nHTML & SCSS\nReact\nNext.js\nReact Native\nWordPress\nContentful\nNode.js\nPHP\nJULY — DEC 2017\nUI Engineer Co-op · Apple\n\nDeveloped and styled interactive web apps for Apple Music, including the user interface of Apple Music’s embeddable web player widget for in-browser user authorization and full song playback.\n\nMusicKit.js\n9to5Mac\nThe Verge\nEmber\nSCSS\nJavaScript\nMusicKit.js\n2016 — 2017\nDeveloper · Scout Studio\n\nCollaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community.\n\nJekyll\nSCSS\nJavaScript\nWordPress\nJULY — DEC 2016\nSoftware Engineer Co-op · Starry\n\nWorked with the UI team to engineer and improve major features of Starry’s customer-facing Android app.\n\nAndroid App\nScreenTime 2.0\nCordova\nBackbone\nJavaScript\nCSS\nJULY — DEC 2015\nCreative Technologist Co-op · MullenLowe U.S.\n\nDeveloped, maintained, and shipped production code for client websites. Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more.\n\nHTML\nCSS\nJavaScript\njQuery\nView Full Résumé"
+    },
+    {
+      "cls": "z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2",
+      "i": 5,
+      "id": "",
+      "rect": {
+        "h": 146,
+        "w": 174.83334350585938,
+        "x": 48,
+        "y": 1084
+      },
+      "role": null,
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(100, 116, 139)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "height": "146px",
+        "letterSpacing": "0.3px",
+        "lineHeight": "16px",
+        "margin": "4px 0px 8px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "174.833px",
+        "zIndex": "10"
+      },
+      "tag": "header",
+      "text": "2024 — PRESENT"
+    },
+    {
+      "cls": "z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2",
+      "i": 6,
+      "id": "",
+      "rect": {
+        "h": 268,
+        "w": 174.83334350585938,
+        "x": 48,
+        "y": 1294
+      },
+      "role": null,
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(100, 116, 139)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "height": "268px",
+        "letterSpacing": "0.3px",
+        "lineHeight": "16px",
+        "margin": "4px 0px 8px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "174.833px",
+        "zIndex": "10"
+      },
+      "tag": "header",
+      "text": "2018 — 2024"
+    },
+    {
+      "cls": "z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2",
+      "i": 7,
+      "id": "",
+      "rect": {
+        "h": 164.33334350585938,
+        "w": 174.83334350585938,
+        "x": 48,
+        "y": 1626
+      },
+      "role": null,
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(100, 116, 139)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "height": "164.333px",
+        "letterSpacing": "0.3px",
+        "lineHeight": "16px",
+        "margin": "4px 0px 8px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "174.833px",
+        "zIndex": "10"
+      },
+      "tag": "header",
+      "text": "JULY — DEC 2017"
+    },
+    {
+      "cls": "z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2",
+      "i": 8,
+      "id": "",
+      "rect": {
+        "h": 125,
+        "w": 174.83334350585938,
+        "x": 48,
+        "y": 1854.3333740234375
+      },
+      "role": null,
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(100, 116, 139)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "height": "125px",
+        "letterSpacing": "0.3px",
+        "lineHeight": "16px",
+        "margin": "4px 0px 8px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "174.833px",
+        "zIndex": "10"
+      },
+      "tag": "header",
+      "text": "2016 — 2017"
+    },
+    {
+      "cls": "z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2",
+      "i": 9,
+      "id": "",
+      "rect": {
+        "h": 143.33334350585938,
+        "w": 174.83334350585938,
+        "x": 48,
+        "y": 2043.3333740234375
+      },
+      "role": null,
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(100, 116, 139)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "height": "143.333px",
+        "letterSpacing": "0.3px",
+        "lineHeight": "16px",
+        "margin": "4px 0px 8px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "174.833px",
+        "zIndex": "10"
+      },
+      "tag": "header",
+      "text": "JULY — DEC 2016"
+    },
+    {
+      "cls": "z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2",
+      "i": 10,
+      "id": "",
+      "rect": {
+        "h": 104,
+        "w": 174.83334350585938,
+        "x": 48,
+        "y": 2250.666748046875
+      },
+      "role": null,
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(100, 116, 139)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "height": "104px",
+        "letterSpacing": "0.3px",
+        "lineHeight": "16px",
+        "margin": "4px 0px 8px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "174.833px",
+        "zIndex": "10"
+      },
+      "tag": "header",
+      "text": "JULY — DEC 2015"
+    },
+    {
+      "cls": "mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24",
+      "i": 11,
+      "id": "projects",
+      "rect": {
+        "h": 830.3541870117188,
+        "w": 747.3333740234375,
+        "x": 48,
+        "y": 2536.666748046875
+      },
+      "role": null,
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(148, 163, 184)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "height": "830.354px",
+        "lineHeight": "26px",
+        "margin": "0px 0px 96px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "747.333px"
+      },
+      "tag": "section",
+      "text": "PROJECTS\nBuild a Spotify Connected App\n\nVideo course that teaches how to build a web app with the Spotify Web API. Topics covered include the principles of REST APIs, user auth flows, Node, Express, React, Styled Components, and more.\n\nSpotify Profile\n\nWeb app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.\n\n719\nReact\nExpress\nSpotify API\nHeroku\nHalcyon Theme\n\nMinimal dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more.\n\n100k+ Installs\nbrittanychiang.com (v4)\n\nAn old portfolio site built with Gatsby with 6k+ stars and 3k+ forks\n\n8,262\nGatsby\nStyled Components\nNetlify\nView Full Project Archive"
+    },
+    {
+      "cls": "mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24",
+      "i": 12,
+      "id": "writing",
+      "rect": {
+        "h": 613.375,
+        "w": 747.3333740234375,
+        "x": 48,
+        "y": 3463.02099609375
+      },
+      "role": null,
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(148, 163, 184)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "height": "613.375px",
+        "lineHeight": "26px",
+        "margin": "0px 0px 96px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "747.333px"
+      },
+      "tag": "section",
+      "text": "WRITING\n\n2026\n\nWelcome to the AI Parade\n\n2024\n\n5 Common Accessibility Pitfalls and How to Avoid Them\n\n2020\n\nIntegrating Algolia Search with WordPress Multisite\n\n2019\n\nBuilding a Headless Mobile App CMS From Scratch"
+    },
+    {
+      "cls": "max-w-md pb-16 text-sm text-slate-500 sm:pb-0",
+      "i": 13,
+      "id": "",
+      "rect": {
+        "h": 60,
+        "w": 448,
+        "x": 48,
+        "y": 4172.39599609375
+      },
+      "role": null,
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "border": "0px solid rgb(229, 231, 235)",
+        "color": "rgb(100, 116, 139)",
+        "display": "block",
+        "flexDirection": "row",
+        "fontFamily": "__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "height": "60px",
+        "lineHeight": "20px",
+        "maxWidth": "448px",
+        "opacity": "1",
+        "position": "static",
+        "transition": "all",
+        "width": "448px"
+      },
+      "tag": "footer",
+      "text": "Loosely designed in Figma and coded in Visual Studio Code by yours truly. Built with Next.js and Tailwind CSS, deployed with Vercel. All text is set in the Inter typeface."
+    }
+  ],
+  "title": "Brittany Chiang"
+}

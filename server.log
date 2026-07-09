@@ -1,0 +1,5 @@
+
+> amrit-portfolio-brittany-clone@1.0.0 start
+> node scripts/serve.mjs
+
+Static clone running at http://localhost:3000
