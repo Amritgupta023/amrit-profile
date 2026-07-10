@@ -200,7 +200,7 @@ function App() {
       <div className="shell">
         <header className="intro">
           <div>
-            <a className="name" href="/" aria-label="Brittany Chiang home">Brittany Chiang</a>
+            <a className="name" href="/" aria-label="Amrit lal Gupta home">Amrit lal Gupta</a>
             <h1>Frontend Engineer</h1>
             <p className="tagline">I build accessible, pixel-perfect experiences for the web.</p>
           </div>
