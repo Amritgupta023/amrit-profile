@@ -3,3 +3,4 @@ dist/
 server*.log
 github-actions-deploy
 github-actions-deploy.pub
+resume.txt
